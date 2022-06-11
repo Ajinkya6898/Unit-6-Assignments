@@ -1,0 +1,36 @@
+{
+  "city": [
+    {
+      "id": 1,
+      "cityName": "Pune",
+      "population": 500000,
+      "country": "India",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 2,
+      "cityName": "Mumbai",
+      "population": 1000000,
+      "country": "India",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 3,
+      "cityName": "Solapur",
+      "population": 50000,
+      "country": "India",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    {
+      "id": 4,
+      "cityName": "Chicago",
+      "population": 2920000,
+      "country": "USA",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  ]
+}
